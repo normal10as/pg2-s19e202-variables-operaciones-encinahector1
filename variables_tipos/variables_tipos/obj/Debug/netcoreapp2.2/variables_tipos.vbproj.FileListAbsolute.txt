@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.2\variables_tipos.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.2\variables_tipos.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.2\variables_tipos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.2\variables_tipos.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\bin\Debug\netcoreapp2.2\variables_tipos.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.2\variables_tipos.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.2\variables_tipos.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.2\variables_tipos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.2\variables_tipos.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.2\variables_tipos.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\variables_tipos\variables_tipos\obj\Debug\netcoreapp2.2\variables_tipos.pdb
