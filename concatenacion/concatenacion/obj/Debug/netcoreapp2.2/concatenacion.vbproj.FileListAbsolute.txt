@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\bin\Debug\netcoreapp2.2\concatenacion.deps.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\bin\Debug\netcoreapp2.2\concatenacion.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\bin\Debug\netcoreapp2.2\concatenacion.runtimeconfig.dev.json
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\bin\Debug\netcoreapp2.2\concatenacion.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\bin\Debug\netcoreapp2.2\concatenacion.pdb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\obj\Debug\netcoreapp2.2\concatenacion.vbprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\obj\Debug\netcoreapp2.2\concatenacion.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\obj\Debug\netcoreapp2.2\concatenacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\obj\Debug\netcoreapp2.2\concatenacion.AssemblyInfo.vb
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\obj\Debug\netcoreapp2.2\concatenacion.dll
+C:\Users\Usuario\Source\Repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\concatenacion\concatenacion\obj\Debug\netcoreapp2.2\concatenacion.pdb

@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\bin\Debug\netcoreapp2.2\aritmetica.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\bin\Debug\netcoreapp2.2\aritmetica.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\bin\Debug\netcoreapp2.2\aritmetica.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\bin\Debug\netcoreapp2.2\aritmetica.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\bin\Debug\netcoreapp2.2\aritmetica.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\obj\Debug\netcoreapp2.2\aritmetica.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\obj\Debug\netcoreapp2.2\aritmetica.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\obj\Debug\netcoreapp2.2\aritmetica.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\obj\Debug\netcoreapp2.2\aritmetica.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\obj\Debug\netcoreapp2.2\aritmetica.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\aritmetica\aritmetica\obj\Debug\netcoreapp2.2\aritmetica.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\bin\Debug\netcoreapp2.2\sumatoria.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\bin\Debug\netcoreapp2.2\sumatoria.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\bin\Debug\netcoreapp2.2\sumatoria.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\bin\Debug\netcoreapp2.2\sumatoria.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\bin\Debug\netcoreapp2.2\sumatoria.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\obj\Debug\netcoreapp2.2\sumatoria.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\obj\Debug\netcoreapp2.2\sumatoria.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\obj\Debug\netcoreapp2.2\sumatoria.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\obj\Debug\netcoreapp2.2\sumatoria.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\sumatoria\sumatoria\obj\Debug\netcoreapp2.2\sumatoria.pdb

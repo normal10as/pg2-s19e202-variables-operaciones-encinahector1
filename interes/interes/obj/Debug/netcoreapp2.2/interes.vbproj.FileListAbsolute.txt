@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\bin\Debug\netcoreapp2.2\interes.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\bin\Debug\netcoreapp2.2\interes.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\bin\Debug\netcoreapp2.2\interes.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\bin\Debug\netcoreapp2.2\interes.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\bin\Debug\netcoreapp2.2\interes.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\obj\Debug\netcoreapp2.2\interes.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\obj\Debug\netcoreapp2.2\interes.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\obj\Debug\netcoreapp2.2\interes.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\obj\Debug\netcoreapp2.2\interes.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\obj\Debug\netcoreapp2.2\interes.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\interes\interes\obj\Debug\netcoreapp2.2\interes.pdb

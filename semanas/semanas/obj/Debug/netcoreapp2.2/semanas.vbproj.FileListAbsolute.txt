@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\bin\Debug\netcoreapp2.2\semanas.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\bin\Debug\netcoreapp2.2\semanas.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\bin\Debug\netcoreapp2.2\semanas.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\bin\Debug\netcoreapp2.2\semanas.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\bin\Debug\netcoreapp2.2\semanas.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\obj\Debug\netcoreapp2.2\semanas.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\obj\Debug\netcoreapp2.2\semanas.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\obj\Debug\netcoreapp2.2\semanas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\obj\Debug\netcoreapp2.2\semanas.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\obj\Debug\netcoreapp2.2\semanas.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\semanas\semanas\obj\Debug\netcoreapp2.2\semanas.pdb
