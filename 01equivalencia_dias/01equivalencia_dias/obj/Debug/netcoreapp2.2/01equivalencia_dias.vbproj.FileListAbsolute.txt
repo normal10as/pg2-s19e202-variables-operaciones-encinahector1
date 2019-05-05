@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\bin\Debug\netcoreapp2.2\01equivalencia_dias.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\bin\Debug\netcoreapp2.2\01equivalencia_dias.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\bin\Debug\netcoreapp2.2\01equivalencia_dias.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\bin\Debug\netcoreapp2.2\01equivalencia_dias.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\bin\Debug\netcoreapp2.2\01equivalencia_dias.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\obj\Debug\netcoreapp2.2\01equivalencia_dias.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\obj\Debug\netcoreapp2.2\01equivalencia_dias.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\obj\Debug\netcoreapp2.2\01equivalencia_dias.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\obj\Debug\netcoreapp2.2\01equivalencia_dias.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\obj\Debug\netcoreapp2.2\01equivalencia_dias.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\01equivalencia_dias\01equivalencia_dias\obj\Debug\netcoreapp2.2\01equivalencia_dias.pdb

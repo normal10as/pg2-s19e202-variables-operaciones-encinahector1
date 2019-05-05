@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\bin\Debug\netcoreapp2.2\1.8Tabla_Booleano.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\bin\Debug\netcoreapp2.2\1.8Tabla_Booleano.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\bin\Debug\netcoreapp2.2\1.8Tabla_Booleano.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\bin\Debug\netcoreapp2.2\1.8Tabla_Booleano.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\bin\Debug\netcoreapp2.2\1.8Tabla_Booleano.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\obj\Debug\netcoreapp2.2\1.8Tabla_Booleano.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\obj\Debug\netcoreapp2.2\1.8Tabla_Booleano.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\obj\Debug\netcoreapp2.2\1.8Tabla_Booleano.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\obj\Debug\netcoreapp2.2\1.8Tabla_Booleano.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\obj\Debug\netcoreapp2.2\1.8Tabla_Booleano.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-encinahector1\1.8Tabla_Booleano\1.8Tabla_Booleano\obj\Debug\netcoreapp2.2\1.8Tabla_Booleano.pdb
