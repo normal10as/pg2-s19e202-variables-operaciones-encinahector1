@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\interes.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\interes.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\interes.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\interes.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\interes.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\interes.vbproj",
         "projectName": "interes",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\interes.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\interes.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\interes\\interes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

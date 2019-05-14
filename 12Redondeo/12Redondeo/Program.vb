@@ -12,7 +12,5 @@ Module Redondeo
         ValorRedondeado = Round(Num)
         Console.WriteLine("valor redondeado: " & ValorRedondeado)
 
-
-
     End Sub
 End Module

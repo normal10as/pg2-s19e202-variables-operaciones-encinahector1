@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\sumatoria.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\sumatoria.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\sumatoria.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\sumatoria.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\sumatoria.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\sumatoria.vbproj",
         "projectName": "sumatoria",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\sumatoria.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\sumatoria.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-encinahector1\\sumatoria\\sumatoria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
